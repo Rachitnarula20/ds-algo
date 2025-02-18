@@ -22,3 +22,5 @@ void nextPermutation(vector<int>& nums) {
     }
     reverse(nums.begin() + ind+1, nums.end());
 }
+
+// test 
